@@ -1,1 +1,0 @@
-# responsividade-em-aplica-es
